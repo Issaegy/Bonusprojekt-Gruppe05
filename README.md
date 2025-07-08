@@ -1,3 +1,3 @@
 Dieses Projekt analysiert Umweltdaten aus Bad Nauheim.
 
-![Man sieht hier die Aufentahltsdauer in einem gewissen Zeitraum](Images/Aufenthalt.png)
+![Alternativtext](Images/Aufenthalt.png "Hier sieht man die Aufenhaltsdauer der Besucher in einem gewissen Zeitraum")
